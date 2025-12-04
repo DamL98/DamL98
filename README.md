@@ -13,7 +13,7 @@
 
 ⚙️ Backend & Development
 - Primary Language: C#
-- Platform: .NET WebApi
+- Platform: .NET
 
 
 🎨 Frontend & UI
