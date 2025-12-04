@@ -23,7 +23,6 @@
 
 
 🌐 Infrastructure & Networking
-- I have a solid foundation in computer networking.
 - Topics like: HTTP/S, TCP/IP, Routing, Switching, VLAN's, Firewalls, SSL are well known for me, little bit about VPN's also 😄
 
 
