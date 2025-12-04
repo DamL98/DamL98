@@ -12,26 +12,27 @@
 
 
 ⚙️ Backend & Development
-Primary Language: C#
-Platform: .NET WebApi
+- Primary Language: C#
+- Platform: .NET WebApi
 
 
 🎨 Frontend & UI
-Language: JavaScript/TypeScript, C#
-Frameworks: React.js, Angular, Blazzor
+- Language: JavaScript/TypeScript, C#
+- Frameworks: React.js, Angular, Blazzor
 <!--Trying Next.js-->
 
 
 🌐 Infrastructure & Networking
-I have a solid foundation in computer networking.
-Topics like: HTTP/S, TCP/IP, Routing, Switching, VLAN's, Firewalls, SSL are well known for me, little bit about VPN's also 😄
+- I have a solid foundation in computer networking.
+- Topics like: HTTP/S, TCP/IP, Routing, Switching, VLAN's, Firewalls, SSL are well known for me, little bit about VPN's also 😄
 
 
 🔭 Currently working on
-SPECIAL 🤔
+- SPECIAL 🤔
 
 
-⚡ Fun fact: I've 2 huskies🐶, so..
+⚡ Fun fact: 
+- I've 2 huskies🐶, so..
 
 
 <!--
